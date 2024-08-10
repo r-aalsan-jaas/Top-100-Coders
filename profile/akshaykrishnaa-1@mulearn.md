@@ -33,23 +33,20 @@ As an aspiring software developer, being in the top 100 will demonstrate my lead
 Resivied an Funding from KSUM For a project , long tearm goal is to Start an Startup 
 
 
-#### Thoughts on Kerala's Tech Ecosystem: `required field`
+#### Thoughts on Kerala's Tech Ecosystem: 
 
 Kerala can emerge as a leading tech startup hub by investing in digital infrastructure, promoting skill development, fostering a culture of innovation, and creating an environment that attracts talent and investors.
 
 
 #### History of Community Engagement:
 
-
-    Active participant in programs conducted by Gtech Mulearn, IEDC/KSUM , IEEE
    
-
+Active Partocopant in programs conduted by Gtech Mulearn ,  IEDC/KSUM ,IEEE
 
 #### Profile Card:
 
 
-
-><img src="https://mulearn.org/embed/rank/akshaykrishnaa-1@mulearn" width="100px" height="100px"></img>
+<img src="https://mulearn.org/embed/rank/akshaykrishnaa-1@mulearn" width="200" height="200"></img>
 
 
 
