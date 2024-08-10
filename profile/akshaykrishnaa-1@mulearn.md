@@ -14,13 +14,14 @@
 - Chair  IEEE SB LMCST
 - IEEE DAY Ambassador
 - Campus lead Gtech Mulearn
-- IEEE extrme Kerala Section Colead
+- IEEE extreme Kerala Section Co-lead
+- IEDC LMC Finace lead 
 
 #### Networking: 
 
--Strong networking skills demonstrated through active participation in various major hackathons like Agritech Hackatho organised by ICAR -CPCRI and KERALA STARTUP MISSION , ATTENDING EVENTS Like IEDC summit, Hudlle global 2022
+-Strong networking skills demonstrated through active participation in various major hackathons like Agritech Hackatho organised by ICAR -CPCRI and KERALA STARTUP MISSION , ATTENDING EVENTS Like IEDC Summit, Hudlle global 2022
 
-Resivied Fund from KERALA STARTUP MISSION For the project Travel Assistant for Blind ( winner of IEDA FEST 2022 Orgainsed by KSUM And IEDC.
+Resivied Fund from KERALA STARTUP MISSION For the project Travel Assistant for Blind ( winner of IEDA FEST 2022 Orgainsed by KSUM And IEDC).
 
 
 #### As a Top 100 Member:
@@ -36,9 +37,6 @@ Resivied an Funding from KSUM For a project , long tearm goal is to Start an Sta
 
 Kerala can emerge as a leading tech startup hub by investing in digital infrastructure, promoting skill development, fostering a culture of innovation, and creating an environment that attracts talent and investors.
 
-#### History of Open Source Contributions:
-
-- Share details of your open-source contributions, whether they are your own projects or contributions to highly popular projects in the open-source community.
 
 #### History of Community Engagement:
 
@@ -47,12 +45,11 @@ Kerala can emerge as a leading tech startup hub by investing in digital infrastr
    
 
 
+#### Profile Card:
 
 
 
+><img src="https://mulearn.org/embed/rank/akshaykrishnaa-1@mulearn" width="100px" height="100px"></img>
 
-> In your portfolio, include the following details:
->> check out [vishakhabhayan@mulearn.md](./profile/vishakhabhayan@mulearn.md) for an exmaple
 
----
 
