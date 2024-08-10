@@ -2,7 +2,7 @@
 
 ### About Me
 
-> Hi, i am Akshay krishna A , Third Year Computer Science student at Lourdes Matha College of Science and Technology.
+> Hi, i am Akshay krishna A , Final year Year Computer Science student at Lourdes Matha College of Science and Technology.
 
 
 ### Portfolio Highlights
@@ -11,11 +11,10 @@
 
 #### Leadership and Influence: 
 
-- Secretary IEEE SB LMCST
-- Vice chair IEEE SB LMCST
+- Chair  IEEE SB LMCST
 - IEEE DAY Ambassador
 - Campus lead Gtech Mulearn
-- 
+- IEEE extrme Kerala Section Colead
 
 #### Networking: 
 
