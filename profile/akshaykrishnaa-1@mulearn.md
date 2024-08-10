@@ -49,4 +49,6 @@ Active Partocopant in programs conduted by Gtech Mulearn ,  IEDC/KSUM ,IEEE
 <img src="https://mulearn.org/embed/rank/akshaykrishnaa-1@mulearn" width="200" height="200"></img>
 
 
+https://app.mulearn.org/profile/akshaykrishnaa-1@mulearn
+
 
